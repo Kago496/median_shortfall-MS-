@@ -1,6 +1,6 @@
 # VaR and Median Shortfall
 ## Capstone Project
-This is the Python script for computing the VaR and Median Shortfall using returns data from Yahoo Finance
+This is the Python script for computing the VaR, Median Shortfall and GJR-GARCH (1,1) in conjuction VaR using returns data from Yahoo Finance
 # Author
 Kago Edwin Ditlhong
 # Main requirements
